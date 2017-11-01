@@ -1,6 +1,6 @@
 # alurapic
 
-> Teste academico
+> Teste acadêmico
 
 ## Build Setup
 
